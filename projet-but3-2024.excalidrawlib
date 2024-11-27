@@ -1,0 +1,49 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "libraryItems": [
+    {
+      "status": "unpublished",
+      "elements": [
+        {
+          "id": "E_ajksi4MlPQ9XF6U-lZq",
+          "type": "text",
+          "x": 616.15234375,
+          "y": 157.5859375,
+          "width": 251.3597869873047,
+          "height": 100,
+          "angle": 0,
+          "strokeColor": "#1e1e1e",
+          "backgroundColor": "transparent",
+          "fillStyle": "solid",
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [],
+          "frameId": null,
+          "roundness": null,
+          "seed": 1785000575,
+          "version": 71,
+          "versionNonce": 1155469759,
+          "isDeleted": false,
+          "boundElements": null,
+          "updated": 1710526059616,
+          "link": null,
+          "locked": false,
+          "text": "- Consulter une room \n- Créer une room\n- Mettre à jour une room\n- Supprimer une room ",
+          "fontSize": 20,
+          "fontFamily": 1,
+          "textAlign": "left",
+          "verticalAlign": "top",
+          "containerId": null,
+          "originalText": "- Consulter une room \n- Créer une room\n- Mettre à jour une room\n- Supprimer une room ",
+          "lineHeight": 1.25
+        }
+      ],
+      "id": "p1TrdeplTCrbzRnYag4b6",
+      "created": 1710567036832
+    }
+  ]
+}
